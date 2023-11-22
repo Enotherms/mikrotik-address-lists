@@ -1,0 +1,5 @@
+/ip firewall address-list
+add address=8.211.157.229 list=Genshin
+add address=8.211.159.68 list=Genshin
+add address=8.211.156.16 list=Genshin
+add address=192.168.134.27 list=Genshin
