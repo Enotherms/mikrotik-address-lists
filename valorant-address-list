@@ -1,18 +1,11 @@
 /ip firewall address-list
-add address=169.55.210.248 list="Mobile Legends"
-add address=169.46.193.199 list="Mobile Legends"
-add address=169.55.210.227 list="Mobile Legends"
-add address=169.55.210.228 list="Mobile Legends"
-add address=192.168.40.220 list="Mobile Legends"
-add address=161.202.213.176 list="Mobile Legends"
-add address=161.202.48.53 list="Mobile Legends"
-add address=169.55.210.238 list="Mobile Legends"
-add address=169.46.198.121 list="Mobile Legends"
-add address=161.202.217.144 list="Mobile Legends"
-add address=169.46.193.225 list="Mobile Legends"
-add address=169.55.210.230 list="Mobile Legends"
-add address=169.45.145.139 list="Mobile Legends"
-add address=161.202.212.150 list="Mobile Legends"
-add address=169.46.193.249 list="Mobile Legends"
-add address=169.53.40.118 list="Mobile Legends"
-add address=161.202.210.211 list="Mobile Legends"
+add address=172.65.228.199 list=Valorant
+add address=31.13.95.61 list=Valorant
+add address=157.240.208.175 list=Valorant
+add address=47.74.170.157 list=Valorant
+add address=31.13.95.175 list=Valorant
+add address=17.57.145.136 list=Valorant
+add address=172.65.207.164 list=Valorant
+add address=91.108.56.107 list=Valorant
+add address=3.33.221.48 list=Valorant
+add address=3.33.252.61 list=Valorant
